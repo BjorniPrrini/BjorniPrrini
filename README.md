@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Bjorni<br>I'm a Software Engineering student passionate about coding and building real-world projects. Currently learning C, Java, and web development technologies. I use GitHub to share my learning journey, personal projects, and experiments.<br><br>📚 Always learning | 🧠 Problem solver | 💻 Open to collaboration
+👋 Hi, I'm Bjorni<br>I'm a Software Engineering student passionate about coding and building real-world projects. Currently learning C, Java, JavaScript and web development technologies. I use GitHub to share my learning journey, personal projects, and experiments.<br><br>📚 Always learning | 🧠 Problem solver | 💻 Open to collaboration
 
 
 ## 🌐 Socials:
