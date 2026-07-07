@@ -23,7 +23,7 @@ Software Engineering student with a strong interest in software architecture, sy
 
 <div align="center">
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <img src="https://github-readme-stats.shion.dev/api?username=BjorniPrrini&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" />
 
