@@ -1,11 +1,11 @@
-# 💫 About Me:
+# About Me:
 Software Engineering student with a strong interest in software architecture, system design, and application development. I enjoy building reliable software, exploring new technologies, and applying engineering principles to create practical and scalable solutions.<br><br>My interests include backend development, full-stack applications, database systems, design patterns, and clean architecture. Through academic and personal projects, I continuously strengthen my technical skills while expanding my understanding of modern software development practices.
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bjorni-p-349832338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bjorniprrini007@gmail.com) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
